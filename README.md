@@ -9,4 +9,4 @@ College management system is an integrated console based application that handle
 - __Marksheet__: Over here we can search students mark sheet via roll number and also we can instantly add new mark sheet too into the local database.
 ## Getting Started with Development
 ##### Clone Git respository:
-git clone https://github.com/Prashant1099/College-Management-System.git
+git clone  https://github.com/rupamprog/college-managent-system-with-python-and-mysql.git
